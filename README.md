@@ -1,0 +1,1 @@
+# Browser Minimal Home Pages.
